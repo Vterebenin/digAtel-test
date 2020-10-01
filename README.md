@@ -1,4 +1,4 @@
-# digAtel-test
+# Digitalization atelier
 Тестовое задание для frontend разработчика в Digitalization atelier
 
 Стек технологий(обязательно)
